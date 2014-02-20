@@ -1,0 +1,18 @@
+{
+  "name": "esundahl-fading-entrances",
+  "description": "fading entrance animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-fade-in": "git://github.com/npmcomponent/esundahl-fade-in.git",
+    "esundahl-fade-in-up": "git://github.com/npmcomponent/esundahl-fade-in-up.git",
+    "esundahl-fade-in-down": "git://github.com/npmcomponent/esundahl-fade-in-down.git",
+    "esundahl-fade-in-left": "git://github.com/npmcomponent/esundahl-fade-in-left.git",
+    "esundahl-fade-in-right": "git://github.com/npmcomponent/esundahl-fade-in-right.git",
+    "esundahl-fade-in-up-big": "git://github.com/npmcomponent/esundahl-fade-in-up-big.git",
+    "esundahl-fade-in-down-big": "git://github.com/npmcomponent/esundahl-fade-in-down-big.git",
+    "esundahl-fade-in-left-big": "git://github.com/npmcomponent/esundahl-fade-in-left-big.git",
+    "esundahl-fade-in-right-big": "git://github.com/npmcomponent/esundahl-fade-in-right-big.git"
+  },
+  "license": "MIT"
+}
